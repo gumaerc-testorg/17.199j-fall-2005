@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -34,12 +36,12 @@ The following student work is used with permission and appears courtesy of the a
 
 ### Paper Topic 1
 
-Zahir Dossa. "Globalization-Country Disclaimer: Handle with Care!" ([PDF]({{< baseurl >}}/resources/globalizationpaper))
+Zahir Dossa. "Globalization-Country Disclaimer: Handle with Care!" ({{% resource_link 3c4dc81d-45f4-0743-b880-080958f37eba "PDF" %}})
 
-Mariel John. "Globalization." ([PDF]({{< baseurl >}}/resources/globalization2))
+Mariel John. "Globalization." ({{% resource_link 45fb4b02-f305-ddf4-db71-773fe10cb537 "PDF" %}})
 
 ### Paper Topic 2
 
-Mariel John. "Economy and Globalization in Zambia, paper." ([PDF]({{< baseurl >}}/resources/economyandglobalizationinzambia))
+Mariel John. "Economy and Globalization in Zambia, paper." ({{% resource_link 3c0aa24c-3f10-bb64-3f33-ba6ced8d5cf6 "PDF" %}})
 
-———. "Economy and Globalization in Zambia, presentation." ([PDF]({{< baseurl >}}/resources/economyandglobalizationinzambiapresentation))
+———. "Economy and Globalization in Zambia, presentation." ({{% resource_link b8d947e9-a6bb-1651-7c1e-afcbbf42f506 "PDF" %}})
