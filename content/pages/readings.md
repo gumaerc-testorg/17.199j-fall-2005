@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the required and recommended readings
+  for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2c1652bd-e774-fbef-b5c0-2121feafbcb4
 ---
@@ -335,7 +340,7 @@ What is the Relationship between Governance and economic growth? Can Globalizati
 
 Rodrik, Dani. "[Feasible Globalizations](http://www.nber.org/papers/W9129)." _National Bureau of Economic Research_ Working Paper 9129 (September 2002).
 
-Stiglitz, Joseph. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Towards a Pro-Development and Balanced Intellectual Property Regime." (PDF)](http://policydialogue.org/files/events/Stiglitz_towards_pro-dev_balanced_intellectual_prop_regime.pdf) Keynote address, Ministerial Conference on Intellectual Property for Least Developed Countries, Seoul, Korea, October 25, 2004.
+Stiglitz, Joseph. ["Towards a Pro-Development and Balanced Intellectual Property Regime." (PDF)](http://policydialogue.org/files/events/Stiglitz_towards_pro-dev_balanced_intellectual_prop_regime.pdf) Keynote address, Ministerial Conference on Intellectual Property for Least Developed Countries, Seoul, Korea, October 25, 2004.
 
 "The July Framework." Institute for Agricultural and Trade Policy. ([PDF](http://www2.weed-online.org/uploads/05_Agrar.pdf))
 
