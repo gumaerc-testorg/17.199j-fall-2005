@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: a slide presentation on the economy and globalization
   of Zambia by Mariel John.'
-file: /ol-ocw-studio-app/courses/17-199j-working-in-a-global-economy-fall-2005/b8d947e9a6bb16517c1eafcbbf42f506_EconomyandGlobalizationinZambiapresentation.pdf
+file: /courses/17-199j-working-in-a-global-economy-fall-2005/b8d947e9a6bb16517c1eafcbbf42f506_EconomyandGlobalizationinZambiapresentation.pdf
 file_size: 119433
 file_type: application/pdf
 learning_resource_types:

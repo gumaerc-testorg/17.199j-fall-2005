@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: an essay on the future of globalization by
   Mariel John.'
-file: /ol-ocw-studio-app/courses/17-199j-working-in-a-global-economy-fall-2005/45fb4b02f305ddf4db71773fe10cb537_Globalization2.pdf
+file: /courses/17-199j-working-in-a-global-economy-fall-2005/45fb4b02f305ddf4db71773fe10cb537_Globalization2.pdf
 file_size: 63702
 file_type: application/pdf
 learning_resource_types:
