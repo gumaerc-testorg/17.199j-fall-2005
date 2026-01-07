@@ -79,15 +79,15 @@ Guest Speaker: Pat Gercik, MIT-Japan Managing Director and MISTI Associate-Direc
 
 {{< tdclose >}}{{< tdopen >}}
 
-Piper, Thomas R. and Jeremy Cott. "Nissan Motor Co. Ltd." {{% resource_link "99b96970-0686-46f9-8419-fa57e700015f" "*Harvard Business School Cases*" %}}. June 2, 2000, product number: 9-200-067. (Revision date: Jan 2003).
+Piper, Thomas R. and Jeremy Cott. "Nissan Motor Co. Ltd." [*Harvard Business School Cases*](http://www.hbs.edu/faculty/Pages/item.aspx?num=29355). June 2, 2000, product number: 9-200-067. (Revision date: Jan 2003).
 
-Yoshino, Michael, and Perry L. Fagan. "The Renault Nissan Alliance." {{% resource_link "ff4bf4d6-79f2-4760-b675-cfbd420dd129" "*Harvard Business School Cases*" %}}. May 2003.
+Yoshino, Michael, and Perry L. Fagan. "The Renault Nissan Alliance." [*Harvard Business School Cases*](http://hbr.org/product/nissan-motor-co/an/200067-PDF-ENG). May 2003.
 
 Osborne, Lawrence. *The Accidental Connoisseur*. New York, NY: North Point Press, 2005, pp. 11-29. ISBN: 9780865477124.
 
 Echikson, William, Frederik Balfour, Kerry Capell, Linda Himelstein, and Gerry Khermouch. "Wine War." *Business Week*, September 3, 2001.
 
-Special Assignment: Nossiter, Jonathan. {{% resource_link "2181531e-5689-47e9-805f-216bbac078d7" "*MONDOVINO*" %}}. 2004.   
+Special Assignment: Nossiter, Jonathan. [*MONDOVINO*](http://imdb.com/title/tt0411674/). 2004.   
 A recent film on the globalization of the wine industry now available on DVD.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -166,11 +166,11 @@ What is the Relationship between Governance and economic growth? Can Globalizati
 
 {{< tdclose >}}{{< tdopen >}}
 
-Rodrik, Dani. "{{% resource_link "660f993b-5503-44c4-91f4-7fde3fedba1a" "Feasible Globalizations" %}}." *National Bureau of Economic Research* Working Paper 9129 (September 2002).
+Rodrik, Dani. "[Feasible Globalizations](http://www.nber.org/papers/W9129)." *National Bureau of Economic Research* Working Paper 9129 (September 2002).
 
-Stiglitz, Joseph. {{% resource_link "ffe19d80-c7c0-47a6-9208-cde9b69eb879" "\"Towards a Pro-Development and Balanced Intellectual Property Regime.\" (PDF)" %}} Keynote address, Ministerial Conference on Intellectual Property for Least Developed Countries, Seoul, Korea, October 25, 2004.
+Stiglitz, Joseph. ["Towards a Pro-Development and Balanced Intellectual Property Regime." (PDF)](http://policydialogue.org/files/events/Stiglitz_towards_pro-dev_balanced_intellectual_prop_regime.pdf) Keynote address, Ministerial Conference on Intellectual Property for Least Developed Countries, Seoul, Korea, October 25, 2004.
 
-"The July Framework." Institute for Agricultural and Trade Policy. ({{% resource_link "934bd576-415f-45a7-93bd-61f4b201a3b4" "PDF" %}})
+"The July Framework." Institute for Agricultural and Trade Policy. ([PDF](https://www.iatp.org/sites/default/files/451_2_73503.pdf))
 
 Oloka-Onyango, J., and Deepika Udagama. "2001 Report on Economic Social and Cultural Rights." United Nations, Economic and Social Council.
 
@@ -190,14 +190,14 @@ Discussion based on the Nike, Walmart and Costco cases.
 
 Locke, Richard. "Notes on Corporate Citizenship." Faculty Working Paper, Massachusetts Institute of Technology, Department of Political Science.
 
-{{% resource_link "df5e0186-7838-4d84-a642-f50d77417e09" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "The Promise and Perils of Globalization: The Case of Nike." In {{% resource_link "df5e0186-7838-4d84-a642-f50d77417e09" "*Management: Inventing and Delivering Its Future*" %}}. Edited by Thomas Kochan and Richard Schmalensee. Cambridge, MA: MIT Press, 2003. ISBN: 9780262112826.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112826) ———. "The Promise and Perils of Globalization: The Case of Nike." In [*Management: Inventing and Delivering Its Future*](https://mitpress.mit.edu/9780262112826). Edited by Thomas Kochan and Richard Schmalensee. Cambridge, MA: MIT Press, 2003. ISBN: 9780262112826.
 
-Wikipedia contributors. "{{% resource_link "35aad1de-0494-435a-afdb-7dae20fa7a5b" "Costco" %}}." *Wikipedia, The Free Encyclopedia.*   
-Herbst, Moira. "{{% resource_link "03089628-f138-4e9c-859d-3b317d59899e" "The Costco Challenge: An Alternative to Wal-Martization?" %}}" *The Labor Research Association Online,* July 5, 2005.
+Wikipedia contributors. "[Costco](http://en.wikipedia.org/w/index.php?title=Costco&oldid=41756068)." *Wikipedia, The Free Encyclopedia.*   
+Herbst, Moira. "[The Costco Challenge: An Alternative to Wal-Martization?](http://weiwentg.blogspot.com/2007/09/costco-vs-wal-mart.html)" *The Labor Research Association Online,* July 5, 2005.
 
-Young, Rick. {{% resource_link "3f57fb50-ade1-4633-9951-8c669796b729" "Is Wal-Mart Good For America?" %}} PBS Frontline. November 16, 2004.
+Young, Rick. [Is Wal-Mart Good For America?](http://www.pbs.org/wgbh/pages/frontline/shows/walmart/) PBS Frontline. November 16, 2004.
 
-Wikipedia contributors. "{{% resource_link "3e6895c4-b8f7-49f5-bd83-70974d21a0c2" "Wal-Mart" %}}." *Wikipedia, The Free Encyclopedia.*
+Wikipedia contributors. "[Wal-Mart](http://en.wikipedia.org/w/index.php?title=Wal-Mart&oldid=41795849)." *Wikipedia, The Free Encyclopedia.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
